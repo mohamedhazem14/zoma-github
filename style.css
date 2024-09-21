@@ -1,6 +1,10 @@
 p{
     background-color: blueviolet;
+    padding: 100px;
 }
 body{
     background-color: brown;
+    border: 90px;
+    width: 50%;
+    height: 400px;
 }
